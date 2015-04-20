@@ -1,0 +1,64 @@
+.nav a{
+    color:#5a5a5a;
+    font-size:11px;
+    font-weight:bold;
+    padding-top:14px;
+    padding-bottom:14px;
+    padding-left:10px;
+    padding-right:10px;
+    text-transform:uppercase;
+    }
+    .jumbotorn{
+    	height: 500px;
+    	background-image: url(../img/1.jpg);
+    }
+    .jumbotorn h1{
+    	color: #fff;
+    	font-size: 48px;
+    	font-weight: bold;
+    }
+    .jumbotorn p{
+    	color: #fff;
+    	font-size: 20px;
+    	font-family: 'shift',sans-shift;
+    }
+    .learn-more{
+    	background-color: #F7F7F7;
+    }
+    .learn-more h3{
+    	font-family: 'shift',sans-shift;
+    	font-size: 18px;
+    	font-weight: bold;
+    }
+    
+    .learn-more a{
+    	color: #00b0ff;
+    }
+    .nav li{
+    	display: inline;
+    }
+    .jumbotorn .container{
+    	position: relative;
+    	top: 100px;
+    }
+    .neighborhood-guides{
+    	background-color: #efefef;
+    	border-bottom: 1px solid #dbdbbd;
+    	
+    }
+    .neighborhood-guides h2{
+    	color: #393c3d;
+    	font-size: 24px;
+    	
+    }
+    .neighborhood-guides img{
+    	width: 450px;
+    	height: 300px;
+    }
+    .neighborhood-guides p{
+    	font-size: 15px;
+    	margin-bottom: 13px;
+    	margin-top: 10px;
+    	margin-left: 10px;
+    	
+    }
